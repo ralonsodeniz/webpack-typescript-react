@@ -1,0 +1,15 @@
+.content {
+  color: green;
+}
+.car {
+  width: 300px;
+}
+.container {
+  background-image: url('../../assets/images/white-abstract-background_23-2148810113.jpeg');
+  width: 400px;
+  height: 300px;
+  background-size: cover;
+}
+.svg {
+  fill: red;
+}
